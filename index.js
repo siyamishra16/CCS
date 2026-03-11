@@ -11,7 +11,7 @@ const collegeRoutes = require("./routes/collegeRoutes");
 const companyRoutes = require("./routes/companyRoutes");
 const schoolRoutes = require("./routes/schoolRoutes");
 const universityRoutes = require("./routes/universityRoutes");
-const skillTestRoutes = require("./routes/Skilltestroutes");
+const skillTestRoutes = require("./routes/SkillTestRoutes");
 const app = express();
 
 // app.use(
